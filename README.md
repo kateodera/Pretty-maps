@@ -1,5 +1,5 @@
 # Pretty-maps
-<h1 align="Description">Nairobi</h1>
+<h1 align="center">Description</h1>
 Maps created using Marcelo Prates' prettymaps project.
 
 <h1 align="center">Nairobi</h1>
